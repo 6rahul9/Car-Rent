@@ -18,6 +18,6 @@
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='../car-rent/src/images/faq/webpage-full-image.png'/>
+<img src='./car-rent/src/images/faq/webpage-full-image.png'/>
 
 </div>
