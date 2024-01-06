@@ -18,6 +18,6 @@
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='./car-rent/src/images/faq/webpage-full-image.png'/>
+<img src='https://github.com/6rahul9/Car-Rent/assets/97466426/975c4bcb-5e58-4a57-b286-39352d9740d4'/>
 
 </div>
