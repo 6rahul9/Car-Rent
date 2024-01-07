@@ -6,7 +6,7 @@
 
 
 
-👉 Live Demo: <a href='https://car-rent-ten.vercel.app/'>Live Demo</a>
+👉 Live Demo: <a href='https://6rahul9.github.io/Car-Rent/'>Live Demo</a>
 
 <h3>Build with:</h3>
 
